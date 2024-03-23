@@ -10,6 +10,5 @@ Super Admin API using Golang
 <!-- Copy Paste .env file  -->
 - cp example.env .env
 <!-- Copy Paste .env file  -->
-- go mod init superadmin-golang-backend
-
+- go mod init alimrndev/superadmin-golang-backend
 
