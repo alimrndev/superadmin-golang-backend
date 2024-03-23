@@ -1,7 +1,7 @@
 package routes
 
 import (
-	"alimrndev/super-admin-golang-backend/app/controllers"
+	"alimrndev/superadmin-golang-backend/controllers"
 
 	"github.com/gin-gonic/gin"
 )

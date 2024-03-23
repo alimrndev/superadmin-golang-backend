@@ -1,7 +1,7 @@
 package controllers
 
 import (
-	"alimrndev/super-admin-golang-backend/app/models"
+	"alimrndev/superadmin-golang-backend/app/models"
 
 	"github.com/gin-gonic/gin"
 )

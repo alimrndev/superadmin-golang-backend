@@ -1,4 +1,4 @@
-module superadmin-golang-backend
+module alimrndev/superadmin-golang-backend
 
 go 1.22.1
 
